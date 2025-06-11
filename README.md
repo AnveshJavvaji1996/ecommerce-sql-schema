@@ -12,14 +12,16 @@ Stores customer information including contact details and registration date.
 #### Categories: 
 Defines product categories (e.g., Electronics, Clothing).
 
-#### Products: Contains product details linked to categories.
+#### Products: 
+Contains product details linked to categories.
 
-#### Orders: Records customer orders with order status and dates.
+#### Orders: 
+Records customer orders with order status and dates.
 
 #### OrderItems: 
 Details products within each order, supporting multiple products per order with quantities and prices. This table uses a composite primary key on order_id and product_id.
 
-####Payments:
+#### Payments:
 Tracks payment details linked to orders.
 
 #### ProductReviews: 
