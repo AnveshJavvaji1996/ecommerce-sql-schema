@@ -1,4 +1,4 @@
-# E-Commerce Database Schema with Data
+# E-Commerce Database Schema with Sample Data
 
 ### Overview
 This project models a simple yet comprehensive e-commerce database schema that covers core business entities and their relationships. It provides the foundation for managing customers, products, categories, orders, payments, shipping, inventory, and product reviews.
